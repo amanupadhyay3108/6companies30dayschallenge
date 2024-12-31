@@ -1,0 +1,1 @@
+Embracing the #6Companies30Days challenge by Arsh Goyal while balancing my end-semester exams! It's a true test of discipline, focus, and time management, and I'm excited to push my limits and see how far I can go. Here's to learning, growing, and breaking boundaries—one day at a time!
