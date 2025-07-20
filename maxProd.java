@@ -9,7 +9,7 @@ public class maxProd {
         System.out.println("Maximum Product: " + result);
     }   
         
-        public static int maximumProduct(int[] nums, int k) {
+      public static int maximumProduct(int[] nums, int k) {
       int n=nums.length;
       long mod=1000000007;
       if(n==1){
